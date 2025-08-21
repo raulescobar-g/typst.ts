@@ -2,10 +2,13 @@
   "name": "@bdino/typst-ts-node-compiler",
   "version": "0.6.1-rc2",
   "author": "Myriad-Dreamin",
-  "description": "Compile or Render Typst documents in Node environment.",
+  "description": "(fork)Compile or Render Typst documents in Node environment.",
   "main": "index.js",
   "license": "Apache-2.0",
-  "repository": "https://github.com/Myriad-Dreamin/typst.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulescobar-g/typst.ts.git"
+  },
   "keywords": [
     "typst",
     "compiler",
