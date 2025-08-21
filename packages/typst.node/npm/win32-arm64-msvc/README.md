@@ -1,3 +1,3 @@
-# `@myriaddreamin/typst-ts-node-compiler-win32-arm64-msvc`
+# `@bdino/typst-ts-node-compiler-win32-arm64-msvc`
 
-This is the **aarch64-pc-windows-msvc** binary for `@myriaddreamin/typst-ts-node-compiler`
+This is the **aarch64-pc-windows-msvc** binary for `@bdino/typst-ts-node-compiler`

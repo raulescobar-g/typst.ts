@@ -1,5 +1,5 @@
 {
-  "name": "@myriaddreamin/typst-ts-node-compiler-win32-x64-msvc",
+  "name": "@bdino/typst-ts-node-compiler-win32-x64-msvc",
   "version": "0.6.1-rc2",
   "os": [
     "win32"

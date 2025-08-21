@@ -1,3 +1,3 @@
-# `@myriaddreamin/typst-ts-node-compiler-android-arm-eabi`
+# `@bdino/typst-ts-node-compiler-android-arm-eabi`
 
-This is the **armv7-linux-androideabi** binary for `@myriaddreamin/typst-ts-node-compiler`
+This is the **armv7-linux-androideabi** binary for `@bdino/typst-ts-node-compiler`

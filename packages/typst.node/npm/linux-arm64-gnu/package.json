@@ -1,5 +1,5 @@
 {
-  "name": "@myriaddreamin/typst-ts-node-compiler-linux-arm64-gnu",
+  "name": "@bdino/typst-ts-node-compiler-linux-arm64-gnu",
   "version": "0.6.1-rc2",
   "os": [
     "linux"
