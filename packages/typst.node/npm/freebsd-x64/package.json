@@ -7,7 +7,7 @@
   "cpu": [
     "x64"
   ],
-  "repository": "https://github.com/Myriad-Dreamin/typst.ts",
+  "repository": "https://github.com/raulescobar-g/typst.ts",
   "main": "typst-ts-node-compiler.freebsd-x64.node",
   "files": [
     "typst-ts-node-compiler.freebsd-x64.node"
